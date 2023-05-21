@@ -1,0 +1,2 @@
+*pilih 'user type' = Admin, agar bisa masuk ke dalam Halaman Input
+bila memilih = User, maka tidak akan diarahkan ke Halaman Input
